@@ -13,16 +13,17 @@ Autorización: La aplicación gestiona los permisos de usuario para agregar elem
 Siga estos pasos para ejecutar la aplicación Almuerzi en su entorno local:
 
 Clona este repositorio en tu máquina:
-bash
-Copy code
+```
 git clone https://github.com/tu-usuario/almuerzi-app.git
+```
 Instala las dependencias:
-Copy code
+```
 npm install
+```
 Ejecuta la aplicación:
-sql
-Copy code
+```
 npm start
+```
 La aplicación se ejecutará en su servidor local y estará disponible en http://localhost:3000.
 
 ## Acceso a la Aplicación
