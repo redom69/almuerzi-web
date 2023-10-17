@@ -24,7 +24,7 @@ Ejecuta la aplicación:
 ```
 npm start
 ```
-La aplicación se ejecutará en su servidor local y estará disponible en http://localhost:3000.
+La aplicación se ejecutará en su servidor local y estará disponible en http://localhost:3000 o en este endpoint https://create-react-o2s3ntbru-daniels-projects-861d9ac7.vercel.app/.
 
 ## Acceso a la Aplicación
 Para acceder a la aplicación, visita la URL de despliegue en Vercel o en el servidor que tengas configurado.
