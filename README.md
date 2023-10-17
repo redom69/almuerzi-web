@@ -5,9 +5,9 @@ Almuerzi es una aplicación de orden de comida que permite a los usuarios selecc
 Almuerzi es una aplicación sencilla y fácil de usar para realizar pedidos de comida. Los usuarios pueden navegar por un menú de opciones de comida y, si están autorizados, agregar elementos a su pedido. La aplicación se ejecuta en un servidor en Vercel y está integrada con un repositorio de Create React App, lo que proporciona una experiencia serverless.
 
 ## Características
-Menú de Comida: Los usuarios pueden ver una lista de opciones de comida disponibles.
-Agregar al Pedido: Los usuarios pueden agregar elementos del menú a su lista de pedidos.
-Autorización: La aplicación gestiona los permisos de usuario para agregar elementos al pedido.
+- Menú de Comida: Los usuarios pueden ver una lista de opciones de comida disponibles.
+- Agregar al Pedido: Los usuarios pueden agregar elementos del menú a su lista de pedidos.
+- Autorización: La aplicación gestiona los permisos de usuario para agregar elementos al pedido.
 
 ## Cómo Ejecutar la Aplicación
 Siga estos pasos para ejecutar la aplicación Almuerzi en su entorno local:
